@@ -10,11 +10,11 @@
 
 Microservices are an architectural approach to developing software application as a collection of independent services that communicate with each other over a network. It breaks down the application into smaller coupled services, instead of building a monolithic application where all functionality is tightly intregated into a single codebase.
 
-![image1](https://github.com/Suwandithe/SuwandiThe-2702350775-B4CC-WADS_Week1/blob/main/microservices1.jpeg)
+![image1](https://github.com/Suwandithe/SuwandiThe-2702350775-B4CC_WADS_Week1/blob/main/microservices1.jpeg)
 
 Microservice is a small, loosely coupled service that is designed to perform a specific business function and each microservice can be developed, deployed, and scaled independently.
 
-![image2](https://github.com/Suwandithe/SuwandiThe-2702350775-B4CC-WADS_Week1/blob/main/microservices2.jpeg)
+![image2](https://github.com/Suwandithe/SuwandiThe-2702350775-B4CC_WADS_Week1/blob/main/microservices2.jpeg)
 
 - This architecture allow you to take a large monolith application and decompose it into small manageable components/services. Also, it is considered as the building block of modern applications.
 
